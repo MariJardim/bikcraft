@@ -30,7 +30,8 @@
   position: absolute;
   transition: 0.3s;
 }
-.menu-link:hover:after {
+.menu-link:hover::after,
+.menu-link.ativo::after {
   width: 100%;
 }
 

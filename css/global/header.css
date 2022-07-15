@@ -16,7 +16,7 @@
   flex-wrap: wrap;
 }
 .menu-link {
-  padding: 16px 5px;
+  padding: 16px 8px;
   display: inline-block; /*quando cair um em cima do outro, não vai dar problema no padding*/
   position: relative;
 }
